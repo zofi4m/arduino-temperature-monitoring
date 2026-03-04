@@ -19,6 +19,6 @@ Simple temperature monitoring system for Arduino, created during academic classe
 
 ## Screenshots
 All screenshots are from Wokwi Simulator.
-![Arduino circuit](image.png)
+![Arduino circuit](./screenshots/image.png)
 Serial plot
-![Serial plot](image-1.png)
+![Serial plot](./screenshots/image-1.png)
